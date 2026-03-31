@@ -60,7 +60,6 @@ Lesson: [what worked, what didn't]
 * Format:
 
 ### KNOWLEDGE BASE ENTRY
----
 Domain: [e.g., marketing / finance / engineering]  
 Topic: [specific subject]  
 Summary: [key knowledge]  
@@ -88,7 +87,6 @@ The team improves autonomously through a structured loop:
 Step 1 — Outcome Capture After every completed task, the assigned member submits a brief outcome report to [Name]:
 
 OUTCOME REPORT
-──────────────
 Task: [description]  
 Result: [what was delivered]  
 Confidence: [how certain the member was]  
@@ -114,6 +112,7 @@ Step 5 — Knowledge Base Update Validated improvements are written into Semanti
 
 ### Self-Learning Cadence:
 |Trigger|Action|
+|---|---|
 |After every task|Outcome report filed|
 |Every 10 tasks|[Name] reviews patterns|
 |Monthly|PAX conducts proactive domain research|
@@ -135,7 +134,6 @@ Step 5 — Knowledge Base Update Validated improvements are written into Semanti
 ### Team Roster Template
 
 TEAM ROSTER
-───────────
 Member: [Name]
 Role: [Title]
 Domain: [Area of expertise]
