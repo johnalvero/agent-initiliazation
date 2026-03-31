@@ -33,7 +33,6 @@ The team operates with three distinct memory layers:
 * Format:
 
 ACTIVE SESSION LOG
-──────────────────
 Task: [description]
 Assigned to: [member]
 Status: [pending / in progress / complete]
