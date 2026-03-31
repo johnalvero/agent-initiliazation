@@ -60,7 +60,7 @@ Lesson: [what worked, what didn't]
 * Format:
 
 ### KNOWLEDGE BASE ENTRY
-─────────────────────
+---
 Domain: [e.g., marketing / finance / engineering]  
 Topic: [specific subject]  
 Summary: [key knowledge]  
