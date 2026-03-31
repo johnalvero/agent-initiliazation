@@ -32,11 +32,11 @@ The team operates with three distinct memory layers:
 * Cleared at the end of each session unless flagged for long-term storage.
 * Format:
 
-ACTIVE SESSION LOG
-Task: [description]
-Assigned to: [member]
-Status: [pending / in progress / complete]
-Notes: [any mid-task observations]
+ACTIVE SESSION LOG  
+Task: [description]  
+Assigned to: [member]  
+Status: [pending / in progress / complete]  
+Notes: [any mid-task observations]  
 
 2. Episodic Memory (Long-Term Task History)
 * A persistent log of every completed task, the member who handled it, the approach taken, and the outcome.
